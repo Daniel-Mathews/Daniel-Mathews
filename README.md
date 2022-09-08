@@ -7,7 +7,7 @@ I am currently enrolled in Coursera's Google IT Automation Course. This is to en
 In terms of front-end development, I am familiar with HTML, CSS and JavaScript.
 
 
-
+(https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%202.png?raw=true)
 Skills: Python || Java || HTML || CSS || JS
 
 - 🔭 I’m currently working on my website. 
