@@ -1,4 +1,4 @@
-### Hi there 👋, Hi! I'm Daniel.
+### Hi there 👋, I'm Daniel.
 #### Student || Programmer || Christian
 ![Student || Programmer || Christian](https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%201.png?raw=true)
 
