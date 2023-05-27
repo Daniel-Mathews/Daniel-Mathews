@@ -2,9 +2,9 @@
 #### Student || Programmer || Christian
 ![Student || Programmer || Christian](https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%201.png?raw=true)
 
-I am a male, 18, computer science student from Bangalore, India. I like to listen and play instruments and occasionally watch movies and sports. I also am a self proclaimed foosball pro :). 
+I am a male, 18, computer science student from Bangalore, India. I like to listen and play instruments and occasionally watch the news and sports. I also am a self proclaimed foosball pro :). 
 
-I am currently enrolled in Coursera's Google IT Automation Course. This is to enhance my coding abilities in the language of Python. I also have a decent working knowledge of Java and OOP. However, I also plan to dive deeper to learn more in this regard.
+I am currently enrolled in QC101 from Udemy. Through this, I intend to gain insight into the world of Quantum Computing. I also have a decent working knowledge of core Java and OOP. However, I also plan to dive deeper to learn more in this regard.
 
 In terms of front-end development, I am familiar with HTML, CSS and JavaScript.
 
@@ -15,8 +15,8 @@ In terms of front-end development, I am familiar with HTML, CSS and JavaScript.
 Skills: Python || Java || HTML || CSS || JS
 
 - 🔭 I’m currently working on my website. 
-- 🌱 I’m currently learning SQL and PHP. 
-- 🤔 I’m looking for help with encryption and steganography. 
+- 🌱 I’m currently learning cryptographic algorithims. 
+- 🤔 I’m looking for help with Quantum-safe crytography. 
 - ⚡ Fun fact: The heads on Easter Island have bodies 
 
 
