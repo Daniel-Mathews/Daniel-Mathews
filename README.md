@@ -1,22 +1,27 @@
 ### Hi there 👋, I'm Daniel.
-#### Student || Programmer || Christian
+#### Student || Programmer || Researcher
 ![Student || Programmer || Christian](https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%201.png?raw=true)
 
-I am a male, 18, computer science student from Bangalore, India. I like to listen and play instruments and occasionally watch the news and sports. I also am a self proclaimed foosball pro :). 
+I am a male, 20, computer science student from Bangalore, India. I like to listen and play instruments and occasionally watch the news and sports. I also am a self proclaimed foosball pro :). 
 
-I am a Quantum Computing enthusiast and am actively working to gain knowledge in this budding field. I have finished Qbronze and am looking forward to attending the upcoming Womanium workshop along with the Qiskit Summer School in July. I'm thrilled to share that I've been selected as a QIntern this year, and will be working on a project for the next two months with Zeki Seskir. I also have a decent working knowledge of core Java and OOP. However, it is my plan to dive deeper to learn more in this regard.
-
-In terms of front-end development, I am familiar with HTML, CSS and JavaScript and Python3.
-
+🎓 Final-year CS undergrad @ BMSIT | CGPA: 9.29
+🚀 Building scalable systems, from ML-powered network monitoring to microservice-based AI chat apps.
+🔧 Stack: FastAPI · Next.js · Kafka · Docker · PostgreSQL · PyTorch · Android · Flask
+🏆 IEEE GitHub Contest Winner | CodeCrux Runner-Up
+🔬 Published Researcher | IEEE · Springer
+👥 Ex-Software Intern @ Wols Logistics | Vice President, BMSIT Coding Club
+📈 Obsessed with systems design, distributed architecture, and developer UX
+🌐 daniel-mathews.github.io
+📬 Reach me | LinkedIn
 
 ![](https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%202.png?raw=true)
 
 
 Skills: Python || Java || HTML || CSS || JS
 
-- 🔭 I’m currently working on my website. 
-- 🌱 I’m currently learning cryptographic algorithims. 
-- 🤔 I’m looking for help with Quantum-safe crytography. 
+- 🔭 I’m currently working on my latest project WC-Prod. 
+- 🌱 Pursuing the Building RAG Agents with LLMs with NVIDIA 
+- 🤔 I’m looking for internships in AI Research or Software Development
 - ⚡ Fun fact: The heads on Easter Island have bodies 
 
 
