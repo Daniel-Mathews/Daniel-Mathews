@@ -4,15 +4,15 @@
 
 I am a male, 20, computer science student from Bangalore, India. I like to listen and play instruments and occasionally watch the news and sports. I also am a self proclaimed foosball pro :). 
 
-🎓 Final-year CS undergrad @ BMSIT | CGPA: 9.29
-🚀 Building scalable systems, from ML-powered network monitoring to microservice-based AI chat apps.
-🔧 Stack: FastAPI · Next.js · Kafka · Docker · PostgreSQL · PyTorch · Android · Flask
-🏆 IEEE GitHub Contest Winner | CodeCrux Runner-Up
-🔬 Published Researcher | IEEE · Springer
-👥 Ex-Software Intern @ Wols Logistics | Vice President, BMSIT Coding Club
-📈 Obsessed with systems design, distributed architecture, and developer UX
-🌐 daniel-mathews.github.io
-📬 Reach me | LinkedIn
+- 🎓 Final-year CS undergrad @ BMSIT | CGPA: 9.29
+- 🚀 Building scalable systems, from ML-powered network monitoring to microservice-based AI chat apps.
+- 🔧 Stack: FastAPI · Next.js · Kafka · Docker · PostgreSQL · PyTorch · Android · Flask
+- 🏆 IEEE GitHub Contest Winner | CodeCrux Runner-Up
+- 🔬 Published Researcher | IEEE · Springer
+- 👥 Ex-Software Intern @ Wols Logistics | Vice President, BMSIT Coding Club
+- 📈 Obsessed with systems design, distributed architecture, and developer UX
+- 🌐 daniel-mathews.github.io
+- 📬 Reach me | https://www.linkedin.com/in/daniel-mathews-2655bb278/
 
 ![](https://github.com/Daniel-Mathews/Daniel-Mathews/blob/main/Github%20banner%202.png?raw=true)
 
